@@ -19,6 +19,7 @@ Following the project brief, I aimed to create a CTA section inspired by the pro
 * **HTML & CSS Code:** I've included the code for my CTA section in this repository. It's well-commented and organized for easy understanding.
 * **Functional CTA Section:** You can view the completed CTA section in `index.html` by opening it in a web browser.
 * Here is a preview !["demo"](demo.png)
+* Here is the [deployed link to the project]() 
 
 **Challenges and Learnings:**
 
