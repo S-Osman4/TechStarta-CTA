@@ -1,4 +1,4 @@
-## My Responsive Newsletter Signup Section (Techstarta Project)
+## Responsive Newsletter Signup Section (Techstarta Project)
 
 This project on Techstarta challenged me to build a visually appealing Call to Action (CTA) section to encourage visitors to subscribe to a website's newsletter. It was a great opportunity to practice my:
 
@@ -31,7 +31,7 @@ While building this CTA section, I encountered a few challenges:
 **Next Steps:**
 
 * I'd love to get feedback on my design and how I can improve the user experience.
-* Experimenting with different layouts and color schemes for the CTA section would be interesting.
+* Experimenting with different layouts and color schemes for the CTA section.
 
 
 I hope you find this project helpful! Feel free to use the code as a base for your own newsletter signup section.
